@@ -1,1 +1,1 @@
-# git-add-new-repo
+# GTech git class
